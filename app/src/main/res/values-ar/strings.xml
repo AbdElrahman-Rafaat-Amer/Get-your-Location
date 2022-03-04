@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">موقعك</string>
+    <string name="text_view_lang">إحداثيات الطول</string>
+    <string name="text_view_lat">إحداثيات العرض</string>
+    <string name="send_sms">ارسل رسالة</string>
+    <string name="getLocation">اوجد الموقع</string>
+    <string name="convert_location_button">اوجد العنوان</string>
+    <string name="address">العنوان</string>
+    <string name="mobile_number"> رقم الهاتف</string>
+    <string name="get_location_first"> اوجد الموقع اولا</string>
+    <string name="notValid_number"> ادخل رقم صحيح واعد المحاولة</string>
+</resources>
